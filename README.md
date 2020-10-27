@@ -1,1 +1,1 @@
-# ProductsStoreOnKubernetes-master
+# ProductsStoreOnKubernetes
